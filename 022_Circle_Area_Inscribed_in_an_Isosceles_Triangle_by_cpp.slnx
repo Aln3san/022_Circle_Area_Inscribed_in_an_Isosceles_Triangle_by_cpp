@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="022_Circle_Area_Inscribed_in_an_Isosceles_Triangle_by_cpp.vcxproj" />
+</Solution>
