@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="022_Circle_Area_Inscribed_in_an_Isosceles_Triangle_by_cpp.vcxproj" />
+  <Project Path="022_Circle_Area_Inscribed_in_an_Isosceles_Triangle_by_cpp.vcxproj" Id="c3b4a15e-ef55-4d99-9c78-79eaba7ff3ea" />
 </Solution>
